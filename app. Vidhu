@@ -16,8 +16,8 @@
       "inline"
     ],
     "website": "https://github.com/Vidhuop/AutoFilterBotV3
-    "repository": "https://github.com/Vidhuop/AutoFilterBotV3
-    "env": {
+    "repository": "
+    "env": {https://github.com/Vidhuop/vidh
         "BOT_TOKEN": {
             "description": "Your bot token.",
             "value": ""
